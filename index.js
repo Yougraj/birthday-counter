@@ -4,7 +4,7 @@
           hour = minute * 60,
           day = hour * 24;
   
-    let birthday = "Jan 1, 2022 00:00:00",
+    let birthday = "Dec 25, 2022 00:00:00",
         countDown = new Date(birthday).getTime(),
         x = setInterval(function() {    
   
@@ -22,7 +22,7 @@
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
   
-            headline.innerText = "Happy birthday Darshana";
+            headline.innerText = "Happy birthday Bhargav";
             countdown.style.display = "none";
             content.style.display = "block";
   
