@@ -1,2 +1,2 @@
 # birthday-card
-https://yougraj.github.io/birthday-card/
+https://yougraj.github.io/birthday-counter/
