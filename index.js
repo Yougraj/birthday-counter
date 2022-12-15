@@ -28,6 +28,6 @@
   
             clearInterval(x);
           }
-          //seconds
+          //seconds b
         }, 0)
     }());
